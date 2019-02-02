@@ -1,0 +1,240 @@
+Note of H-1B
+
+Create: 2/2/2019 11:05:11 PM
+Update: -
+
+
+笔者抽中2019财年H-1B (Regular Cap), 苦等了整整8个月，等来了RFE(Request for
+evidence)。此前对H-1B并没有太多了解，8个月间断断续续读了许多零碎的资料，不
+敢说熟悉，至少谈得上了解了。
+
+在互联网上，绝大部分的关于H-1B和讨论都是由中国人和印度人所贡献的。中国人的
+一亩三分地上的签证版一直都活跃，在这里能看到不少鲜活的case, 感谢这些网友的
+分享精神, 但是需要注意，依然有很多人在douban等地分享自己的经验。
+
+但是这些信息分散而零散，中间夹带大量的N手信息和分享者个人的猜想和见解，此外
+经常语焉不详，让后来者很难从中得到有参考价值的信息，从而多走许多弯路错路。
+我希望把自己了解到的信息，比较系统化地整理出来。
+
+但请不要指望这份文档全而具体，H-1B相关的内容太多了，我只能将我个人视线所及
+的信息整理分享。如有失实不准之处，也希望指正。但我不能对本文负任何责任。
+
+USCIS有一份巨细无遗的H-1B培训资料, 每个经受RFE痛苦的同学都应认真细读,这份资
+料长达1221页, 但这并不是一本书,而是资料汇编合集,文章及ppt兼有之:
+https://www.uscis.gov/sites/default/files/USCIS/About%20Us/Electronic%20Reading%20Room/Policies_and_Manuals/H1-B_Training_Material_and_Guidance.pdf
+
+这么长，你想读完应该不太可能，这就是个参考书，你看自己关心的那部分就好了。
+
+另外，其它的USCIS资料亦可以以作为参考，比如EB2对教育和经验的要求:
+[ 1 ] Appendix 22-1 Educational and Experience Requirements for Employment-Based Second Preference (EB-2) Immigrants.
+https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-26573/0-0-0-31107.html
+
+在此文档中，USCIS对一些问题做了详细解释, 比如What exactly is Progressive Experience?
+
+
+通过google搜索
+public copy site:uscis.gov filetype:pdf
+
+你也能找到大量公开的cases,多看几个对你了解USCIS这个黑箱子很有帮助。
+
+
+---------------------------------------------------------------------------
+Q: 经常看到有人说Adv和Non-Adv, 这两个是什么意思?
+A: Advanced: Master 及以上学历
+   Non-Advanced : 本科学历
+
+
+Q: 2018年9月11日, USCIS发布了一个备忘录，主要意思说审查官可以以不发RFE和
+NOID( Notification Of Intent to Deny )就拒绝一个case, 这意味着什么?
+A: 该备忘录
+https://www.uscis.gov/sites/default/files/USCIS/Laws/Memoranda/AFM_10_Standards_for_RFEs_and_NOIDs_FINAL2.pdf
+
+解读:
+https://www.murthy.com/2018/07/27/uscis-memo-on-denying-cases-without-rfe-noid/
+
+总结下来，只要每一步别出大漏子，都太可能会被直接干掉。毕竟USCIS也是要讲基本
+法的。
+
+
+Q: CAP H-1B 每年只抽85,000人吗?
+A:
+从ImmigrationGirl上提供的信息来看, 每年随机抽出的人数并非固定为85,000:
+
+像FY 2019, 足足抽了113,000, 较之实际名额多出了28,000人，多抽的那部分人到底
+结局如何，似乎只能靠猜。在ImmigrationGirl上，网友NANDISH问了:
+---------------------------------------------------------------------------
+NANDISH:
+What happens to those if they get selected in lottery but USCIS completes
+their quota of 85,000;
+---------------------------------------------------------------------------
+
+然而没有人作答。在一亩三地里，我看到有人提到上一次没用完的名额，会滚动下一
+年。出处我已经找不到了，但是要意识到这是一种猜测，它可能是真相，也可以不是
+，很可能无从证伪或证实。
+
+[ 1 ] Inside information on h-1b lottery fillings fy-2014 - fy 2019
+http://immigrationgirl.com/inside-information-on-h-1b-lottery-filings-fy-2014-fy-2019/
+
+
+Q: RFE的原因是SO(Speciality Occupation)/BQ(Beneficiary Qualification)时，往
+往律师建议找人写expert opinion letter, expert opinion letter是什么? 找谁写?
+写什么?
+A:
+移民局会根据Occupational outlook handbook (https://www.bls.gov/ooh) 来判断
+一个职业需要什么样的学历条件。
+
+1. 如果一个职位并没有明确指明通常需要本科及以上的学位，则移民局很可能质疑这
+个职位不符合Speciality Occupation的要求。
+- 在这种情况，你可能需要找教授\专家\机构写专家信说明为什么个职业复杂到需要
+本科及以上的学历。当然你可能需要去linkedin/indeed上找一堆那种写明需要本科及
+以上学历的招聘信息，把它们按律师的要求整理齐整。
+
+对于被SO命中的同学，都可以看看这篇分析:
+http://blog.cyrusmehta.com/2018/04/analyzing-the-definition-of-a-specialty-occupation-under-ina-214i-to-challenge-h-1b-visa-denials.html
+
+
+2.  而如果一个职位通常需要本科及以上的学位，而你的专业没有呈现出跟该职位的
+直接相关性，则移民局会质疑你并不符合资格。
+- 如果你的专业跟职业存在内在关联，那可以让教授写信证明你的专业为什么可以从
+事该工作。你也逐个课程地写详细解释，说明课程与工作的关联然后让教授签字。
+- 如果你不幸是跨专业的，也就是你学历跟你从事的专业没有什么关系，这种情况比
+较复杂。比方说，你本科学的是机械自动化(Machanical Engineering And
+Automation)，但你从事的却是cybersecurity industry的工作，尽管你本科阶段也上
+过几个computer science的课，但是这个关联性是极为微弱且不可靠的，根据USCIS公
+开的拒信:
+https://www.uscis.gov/sites/default/files/err/D1%20-%20Revocation%20of%20Nonimmigrant%20Visa%20Petition%20Approval/Decisions_Issued_in_2006/Sep182006_11D1101.pdf
+
+信里明确说到
+The transcripts indicate that the beneficiary completed several courses in
+computers and electronics. However, the Service is not persuaded that this
+limited coursework can be considered equivalent to an academic minor or
+major in computer science or information systems....
+
+注意到移民局说的是尽管丫上了几个计算机和电子的课，但是这不足以说明这有限的
+课程能够等价于计算机与信息系统的专业或副修专业。
+
+但是如果确实上过几个计算机课，还是应该写的，反正写了不吃亏，100分说服力不一
+定有，但万一有个5分说服力，那也总比没有来得强。
+
+通常来说，在这种条件下，你会需要机构或行业专家来结合你的本科和工作经验来进
+行评估，需要得出一个结论就是你这个本科凑上你的工作经验等同于一个工作所在专
+业的本科。工作经验怎么折算，按明文规矩来说，是每三年工作经验等同于一年本科
+，这意味着，如果你恰巧有了十二年及以上的行业工龄，那恭喜你，哪怕你没有任何
+本科学历，你也可以被认为拥有等价于4年本科的学历了。
+
+但是如果没有这么长的工作经验，也不等完全没有希望，在
+
+https://www.brownimmigrationlaw.com/h-1b-experience-verification-letters-to-show-progressive-experience-in-specialty/
+上，我们看到该律师所的解读:
+-The individual has a four-year degree from a foreign college or
+university, but the degree is not in the same field as the "specialty." For
+example, the individual has a Bachelor’s Degree in Accounting, and 10 years
+of experience in software engineering, and seeks to obtain an H-1B visa for
+a position as a Software Engineer.  In this situation, we would seek to
+obtain an education and experience evaluation stating that the individual
+has enough work experience in software engineering (using the USCIS’ rule
+of three years of experience counting as one year of college or university
+education), in addition to the accounting degree, to have the "equivalent"
+of a Bachelor’s Degree in Computer Science/Computer Engineering.  In most
+cases, the individual must have the Bachelor’s Degree in the unrelated
+field plus at least 3-6 years of experience in the specialty to have the
+equivalent of a Bachelor’s Degree in the specialty occupation.
+
+不相干学历加上3-6 years的行业经验可以等同于一个本科学位。这个数字我没有找到
+USCIS的出处，我的理解是这群律师从之前的case历史中总结出来的。
+
+而在:
+https://www.uscis.gov/sites/default/files/err/B5%20-%20Members%20of%20the%20Professions%20holding%20Advanced%20Degrees%20or%20Aliens%20of%20Exceptional%20Ability/Decisions_Issued_in_2012/Jul092012_01B5203.pdf
+
+P3中找到这么一段话:
+Advanced degree means any United States academic or professional degree or
+a foreign equivalent degree above that of baccalaureate. A United States
+baccalaureate degree or a foreign equivalent degree followed by at least
+five years of progressive experience in the specialty shall be considered
+the equivalent of a master's degree. If a doctoral degree is customarily
+required by the specialty, the alien must have a United States doctorate or
+a foreign equivalent degree.
+
+
+Expert opinion letter可以找商业机构写，这里附上一个列表供参考:
+
+1. https://www.fis-web.com
+持有资质最齐全,似乎是naces.org/member.html会员中惟一能提供expert opinion
+letter的, 同时这家能提供Invoice.
+
+2. https://www.usces.org
+基本上是7*24小时在线服务, 随时都能右下解找客服并得到合适的回应, 但是这家提
+供不了invoice.
+而在https://www.trustpilot.com/review/usces.org上, 对这个家的评价也是也极分
+化，不少人说他们的信中出处多处错误，但在提出后，都得到及时修正。
+
+而有人提到说USCIS不认可该机构的评估，申请退款，但石沉大海再无回音。
+
+就资质而言，这家好歹还是NAFSA的成员，而且:
+https://www.doe.in.gov/effectiveness/international-education-teacher-student-exchange
+
+这个Indiana Department of Education还将usces列到了Popular Resources里。
+
+3. https://morningeval.com/evaluation-request/
+4. https://www.silvergateweb.com/Applications/Case.aspx?Type=Individual
+5. http://trustfortecorp.com/preUpload.php
+这三家我不知道是怎么回事，看不出这三家有什么资质，但是一亩三分地中有不少人
+都推荐了这三个。我发信询问是否能提供invoice, silvergate回复我说:
+"Hi - We are unable to offer invoicing privileges at this time. We will
+review this request and get back to you with an assessment shortly. Please
+let us know if you have any further questions."
+
+我跟Trustforte联系过，他们的处理流程非常专业。
+
+6. https://www.utevaluators.org/
+这个自称是naces.org的成员，但是我在naces.org上并没有看到这货，发信问为什么
+，没有得到回复。其同样声称是NAFSA成员，但是我无从核实，存疑。
+
+这些信到底有没有用，这个实在不好说:
+https://www.murthy.com/2018/03/08/expert-opinion-letters-disregarded-with-h1b-petition-filings/
+
+提到说这种信的权重下降了，至少在证明SO时应该是这样的。但是在BQ或者Degree
+mismatch上，情况如何尚不清楚。但很多时候，对于我们来说，这其实上个单选题，
+有没有被明确告知完全无全的情况下，还是得试一试，即使不行，也使得移民局反驳
+的难度有所加大。
+
+我找到一些有趣的CASES，例如:
+https://www.uscis.gov/sites/default/files/err/D1%20-%20Revocation%20of%20Nonimmigrant%20Visa%20Petition%20Approval/Decisions_Issued_in_2006/Sep182006_11D1101.pdf
+
+在这个case里,倒霉蛋摊上一个二愣子律师,再加上移民局挑骨头,这是一种概率上的不
+幸. Director 大人要求提交更细节的Affidavits, 二愣子律师把最初交的那堆资料又
+交了一遍. 在P3页里，中间那段详述了拒绝的理由。
+
+https://www.uscis.gov/sites/default/files/err/B5%20-%20Members%20of%20the%20Professions%20holding%20Advanced%20Degrees%20or%20Aliens%20of%20Exceptional%20Ability/Decisions_Issued_in_2012/Jul092012_01B5203.pdf
+这是一个I140 case
+
+
+Q: How to write a verification letter?
+A:
+这个google能搜到一些样例，但要注意，那些样例大多是不符合RFE要求的。
+
+Brown Immigration Law写了个blog教了一下:
+https://www.brownimmigrationlaw.com/h-1b-experience-verification-letters-to-show-progressive-experience-in-specialty/
+
+但是这个还是不够详细
+
+我在联系Trustfortecorp时，问他们的Client relation Manager要了一份模板，发现
+他们的模板非常专业且详细:
+http://trustfortecorp.com/preUpload.php
+
+你也可以参考一下以下这篇
+[1] How to improve the impact of reference letters establishing extraordinary
+ability:
+https://www.klaskolaw.com/article/how-to-improve-the-impact-of-reference-letters-establishing-extraordinary-ability-2/
+
+
+---------------------------------------------------------------------------
+一些可能有用的链接:
+[ 1 ] [H1B] 转专业h1b rfe app 分享
+https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=465789&extra=&page=1
+
+[ 2 ] Inside Information on H-1B Lottery Filings FY 2014 – FY 2019
+http://immigrationgirl.com/inside-information-on-h-1b-lottery-filings-fy-2014-fy-2019/
+
+[ 3 ] Education Evaluation sample
+http://johnj.website/usces.pdf
