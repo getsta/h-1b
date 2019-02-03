@@ -1,12 +1,11 @@
 Note of H-1B
 
-Author: nonempty
 Create: 2/2/2019 11:05:11 PM
-Update: -
+Update: 2/3/2019 13:20:04 PM
 
 
-笔者抽中2019财年H-1B (Regular Cap), 苦等了整整8个月，等来了RFE(Request for
-evidence)。此前对H-1B并没有太多了解，8个月间断断续续读了许多零碎的资料，不
+笔者抽中2019财年H-1B (Regular Cap), 苦等了整整8个月，等来了RFE(Request For
+Evidence)。此前对H-1B并没有太多了解，8个月间断断续续读了许多零碎的资料，不
 敢说熟悉，至少谈得上了解了。
 
 在互联网上，绝大部分的关于H-1B和讨论都是由中国人和印度人所贡献的。中国人的
@@ -56,13 +55,21 @@ https://www.murthy.com/2018/07/27/uscis-memo-on-denying-cases-without-rfe-noid/
 总结下来，只要每一步别出大漏子，都太可能会被直接干掉。毕竟USCIS也是要讲基本
 法的。
 
+Q: worktheme.com 的信息到底准不准确?
+A: 不准确
+
+第一是其数据源是egov.uscis.com, 而根据实际经验能看到
+egov.uscis.com的更新非常不及时, 只有myaccount.uscis.gov上的数据是准确的,但
+是爬虫无法解决二次验证的问题。
+
+第二是其数据混合了Transfer的cases。
+
 
 Q: CAP H-1B 每年只抽85,000人吗?
 A:
-从ImmigrationGirl上提供的信息来看, 每年随机抽出的人数并非固定为85,000:
-
-像FY 2019, 足足抽了113,000, 较之实际名额多出了28,000人，多抽的那部分人到底
-结局如何，似乎只能靠猜。在ImmigrationGirl上，网友NANDISH问了:
+从ImmigrationGirl上提供的信息来看, 每年随机抽出的人数并非固定为85,000，像
+FY 2019, 足足抽了113,000, 较之实际名额多出了28,000人，多抽的那部分人到底结
+局如何，似乎只能靠猜。在ImmigrationGirl上，网友NANDISH问了:
 ---------------------------------------------------------------------------
 NANDISH:
 What happens to those if they get selected in lottery but USCIS completes
@@ -86,7 +93,7 @@ A:
 
 1. 如果一个职位并没有明确指明通常需要本科及以上的学位，则移民局很可能质疑这
 个职位不符合Speciality Occupation的要求。
-- 在这种情况，你可能需要找教授\专家\机构写专家信说明为什么个职业复杂到需要
+- 在这种情况，你可能需要找教授/专家/机构写专家信说明为什么个职业复杂到需要
 本科及以上的学历。当然你可能需要去linkedin/indeed上找一堆那种写明需要本科及
 以上学历的招聘信息，把它们按律师的要求整理齐整。
 
@@ -96,8 +103,10 @@ http://blog.cyrusmehta.com/2018/04/analyzing-the-definition-of-a-specialty-occup
 
 2.  而如果一个职位通常需要本科及以上的学位，而你的专业没有呈现出跟该职位的
 直接相关性，则移民局会质疑你并不符合资格。
+
 - 如果你的专业跟职业存在内在关联，那可以让教授写信证明你的专业为什么可以从
 事该工作。你也逐个课程地写详细解释，说明课程与工作的关联然后让教授签字。
+
 - 如果你不幸是跨专业的，也就是你学历跟你从事的专业没有什么关系，这种情况比
 较复杂。比方说，你本科学的是机械自动化(Machanical Engineering And
 Automation)，但你从事的却是cybersecurity industry的工作，尽管你本科阶段也上
@@ -127,11 +136,11 @@ major in computer science or information systems....
 
 https://www.brownimmigrationlaw.com/h-1b-experience-verification-letters-to-show-progressive-experience-in-specialty/
 上，我们看到该律师所的解读:
--The individual has a four-year degree from a foreign college or
-university, but the degree is not in the same field as the "specialty." For
-example, the individual has a Bachelor’s Degree in Accounting, and 10 years
-of experience in software engineering, and seeks to obtain an H-1B visa for
-a position as a Software Engineer.  In this situation, we would seek to
+-The individual has a four-year degree from a foreign college or university, 
+but the degree is not in the same field as the "specialty." For example, 
+the individual has a Bachelor’s Degree in Accounting, and 10 years of 
+experience in software engineering, and seeks to obtain an H-1B visa for a 
+position as a Software Engineer.  In this situation, we would seek to 
 obtain an education and experience evaluation stating that the individual
 has enough work experience in software engineering (using the USCIS’ rule
 of three years of experience counting as one year of college or university
@@ -141,8 +150,8 @@ cases, the individual must have the Bachelor’s Degree in the unrelated
 field plus at least 3-6 years of experience in the specialty to have the
 equivalent of a Bachelor’s Degree in the specialty occupation.
 
-不相干学历加上3-6 years的行业经验可以等同于一个本科学位。这个数字我没有找到
-USCIS的出处，我的理解是这群律师从之前的case历史中总结出来的。
+不相关学历加上3-6 years的行业经验可以等同于一个本科学位。这个数字我没有找到
+USCIS的出处，我的理解是这群律师从之前的cases历史中总结出来的。
 
 而在:
 https://www.uscis.gov/sites/default/files/err/B5%20-%20Members%20of%20the%20Professions%20holding%20Advanced%20Degrees%20or%20Aliens%20of%20Exceptional%20Ability/Decisions_Issued_in_2012/Jul092012_01B5203.pdf
@@ -165,38 +174,40 @@ letter的, 同时这家能提供Invoice.
 
 2. https://www.usces.org
 基本上是7*24小时在线服务, 随时都能右下解找客服并得到合适的回应, 但是这家提
-供不了invoice.
-而在https://www.trustpilot.com/review/usces.org上, 对这个家的评价也是也极分
+供不了Invoice。
+
+而在https://www.trustpilot.com/review/usces.org上, 对这个家的评价也是两极分
 化，不少人说他们的信中出处多处错误，但在提出后，都得到及时修正。
 
-而有人提到说USCIS不认可该机构的评估，申请退款，但石沉大海再无回音。
+而有人提到说在USCIS不认可该机构的评估后申请退款，但石沉大海再无回音。
 
 就资质而言，这家好歹还是NAFSA的成员，而且:
 https://www.doe.in.gov/effectiveness/international-education-teacher-student-exchange
 
-这个Indiana Department of Education还将usces列到了Popular Resources里。
+这个Indiana Department of Education还将USCES列到了Popular Resources里。
 
 3. https://morningeval.com/evaluation-request/
 4. https://www.silvergateweb.com/Applications/Case.aspx?Type=Individual
 5. http://trustfortecorp.com/preUpload.php
 这三家我不知道是怎么回事，看不出这三家有什么资质，但是一亩三分地中有不少人
-都推荐了这三个。我发信询问是否能提供invoice, silvergate回复我说:
+都推荐了这三个。我发信询问是否能提供Invoice, silvergate回复我说:
 "Hi - We are unable to offer invoicing privileges at this time. We will
 review this request and get back to you with an assessment shortly. Please
 let us know if you have any further questions."
 
-我跟Trustforte联系过，他们的处理流程非常专业。
+但随后我跟Trustforte联系过，发现他们的处理流程非常专业。
 
 6. https://www.utevaluators.org/
 这个自称是naces.org的成员，但是我在naces.org上并没有看到这货，发信问为什么
 ，没有得到回复。其同样声称是NAFSA成员，但是我无从核实，存疑。
 
-这些信到底有没有用，这个实在不好说:
+
+至于Expert Opinion Letter到底有没有用，这个实在不好说:
 https://www.murthy.com/2018/03/08/expert-opinion-letters-disregarded-with-h1b-petition-filings/
 
 提到说这种信的权重下降了，至少在证明SO时应该是这样的。但是在BQ或者Degree
 mismatch上，情况如何尚不清楚。但很多时候，对于我们来说，这其实上个单选题，
-有没有被明确告知完全无全的情况下，还是得试一试，即使不行，也使得移民局反驳
+有没有被明确告知完全无用的情况下，还是得试一试，即使不行，也使得移民局反驳
 的难度有所加大。
 
 我找到一些有趣的CASES，例如:
@@ -207,7 +218,8 @@ https://www.uscis.gov/sites/default/files/err/D1%20-%20Revocation%20of%20Nonimmi
 交了一遍. 在P3页里，中间那段详述了拒绝的理由。
 
 https://www.uscis.gov/sites/default/files/err/B5%20-%20Members%20of%20the%20Professions%20holding%20Advanced%20Degrees%20or%20Aliens%20of%20Exceptional%20Ability/Decisions_Issued_in_2012/Jul092012_01B5203.pdf
-这是一个I140 case
+这是一个I140 case, 各个机构的评估都被喷了一通, 最后USCIS接受了三年印度本科
+加两年印度硕士等同于一个美国本科。
 
 
 Q: How to write a verification letter?
