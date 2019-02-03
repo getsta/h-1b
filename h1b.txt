@@ -34,8 +34,12 @@ https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-26573/0-0-0-31107
 
 通过google搜索
 public copy site:uscis.gov filetype:pdf
+print site:uscis.gov filetype:pdf
+你也能找到大量公开的cases,多看几个对你了解USCIS这个黑箱子很有帮助。变态一点,
+直接:
+site:uscis.gov filetype:pdf
 
-你也能找到大量公开的cases,多看几个对你了解USCIS这个黑箱子很有帮助。
+把USCIS上所有pdf都拖回来.
 
 
 ---------------------------------------------------------------------------
@@ -136,11 +140,11 @@ major in computer science or information systems....
 
 https://www.brownimmigrationlaw.com/h-1b-experience-verification-letters-to-show-progressive-experience-in-specialty/
 上，我们看到该律师所的解读:
--The individual has a four-year degree from a foreign college or university, 
-but the degree is not in the same field as the "specialty." For example, 
-the individual has a Bachelor’s Degree in Accounting, and 10 years of 
-experience in software engineering, and seeks to obtain an H-1B visa for a 
-position as a Software Engineer.  In this situation, we would seek to 
+-The individual has a four-year degree from a foreign college or university,
+but the degree is not in the same field as the "specialty." For example,
+the individual has a Bachelor’s Degree in Accounting, and 10 years of
+experience in software engineering, and seeks to obtain an H-1B visa for a
+position as a Software Engineer.  In this situation, we would seek to
 obtain an education and experience evaluation stating that the individual
 has enough work experience in software engineering (using the USCIS’ rule
 of three years of experience counting as one year of college or university
@@ -220,6 +224,41 @@ https://www.uscis.gov/sites/default/files/err/D1%20-%20Revocation%20of%20Nonimmi
 https://www.uscis.gov/sites/default/files/err/B5%20-%20Members%20of%20the%20Professions%20holding%20Advanced%20Degrees%20or%20Aliens%20of%20Exceptional%20Ability/Decisions_Issued_in_2012/Jul092012_01B5203.pdf
 这是一个I140 case, 各个机构的评估都被喷了一通, 最后USCIS接受了三年印度本科
 加两年印度硕士等同于一个美国本科。
+
+在H1-B_Training_Material_and_Guidance.pdf P6中,
+------------------+--------------------------------------------------------
+Evaluator         | USCIS will only accept evaluations of a combination of education,
+Requirements      | training and/or work experience if the evaluator meets the requirements
+for               | of 8 CFR 214.2(h)(4)(iii)(D)(l) in that he or she has the authority to grant
+Combination       | college level credit for training and/or experience in the specialty at an
+Evaluation of ·   | accredited college or university which has a program for granting such
+Education and     | credit based on an individual's training and/or work experience.
+Experience        | If the evaluator of a credentialing company also meets the requirements
+                  | of 8 CFR 214.2(h)(4)(iii)(D)(1), then USCIS would find the evaluation
+                  | acceptable for consideration.
+                  | NOTE: Evaluations are advisory in nature. USCIS may still disagree
+                  | with the finding.
+------------------+--------------------------------------------------------
+
+8 CFR 214.2(h)(4)(iii)(D)(l) 参见于:
+https://www.law.cornell.edu/cfr/text/8/214.2
+---------------------------------------------------------------------------
+(D)Equivalence to completion of a college degree. For purposes of paragraph
+(h)(4)(iii)(C)(4) of this section, equivalence to completion of a United
+States baccalaureate or higher degree shall mean achievement of a level of
+knowledge, competence, and practice in the specialty occupation that has
+been determined to be equal to that of an individual who has a
+baccalaureate or higher degree in the specialty and shall be determined by
+one or more of the following:
+
+(1) An evaluation from an official who has authority to grant college-level
+credit for training and/or experience in the specialty at an accredited
+college or university which has a program for granting such credit based on
+an individual's training and/or work experience;
+---------------------------------------------------------------------------
+
+我看完这里还是不明就里, 看看这里的解读:
+https://www.visalawyerblog.com/this_informative_article_is_pr/
 
 
 Q: How to write a verification letter?
