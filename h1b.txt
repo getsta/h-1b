@@ -1,7 +1,8 @@
 Note of H-1B
 
+Author: nonempty
 Create: 2/2/2019 11:05:11 PM
-Update: -
+Update: 2/4/2019 7:52:21 PM
 
 
 笔者抽中2019财年H-1B (Regular Cap), 苦等了整整8个月，等来了RFE(Request For
@@ -9,14 +10,14 @@ Evidence)。此前对H-1B并没有太多了解，8个月间断断续续读了许
 敢说熟悉，至少谈得上了解了。
 
 在互联网上，绝大部分的关于H-1B和讨论都是由中国人和印度人所贡献的。中国人的
-一亩三分地上的签证版一直都活跃，在这里能看到不少鲜活的case, 感谢这些网友的
+一亩三分地上的签证版一直都活跃，在这里能看到不少鲜活的cases, 感谢这些网友的
 分享精神, 但是需要注意，依然有很多人在douban等地分享自己的经验。
 
 但是这些信息分散而零散，中间夹带大量的N手信息和分享者个人的猜想和见解，此外
-经常语焉不详，让后来者很难从中得到有参考价值的信息，从而多走许多弯路错路。
-我希望把自己了解到的信息，比较系统化地整理出来。
+经常语焉不详又不给出处，让后来者很难从中得到有参考价值的信息，从而多走许多
+弯路错路。我希望把自己了解到的信息，比较系统化地整理出来。
 
-但请不要指望这份文档全而具体，H-1B相关的内容太多了，我只能将我个人视线所及
+但请不要指望这份文档点面俱到，H-1B相关的内容太多了，我只能将我个人视线所及
 的信息整理分享。如有失实不准之处，也希望指正。但我不能对本文负任何责任。
 
 USCIS有一份巨细无遗的H-1B培训资料, 每个经受RFE痛苦的同学都应认真细读,这份资
@@ -32,20 +33,27 @@ https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-26573/0-0-0-31107
 在此文档中，USCIS对一些问题做了详细解释, 比如What exactly is Progressive Experience?
 
 
-通过google搜索
+另外通过google搜索
 public copy site:uscis.gov filetype:pdf
 print site:uscis.gov filetype:pdf
-你也能找到大量公开的cases,多看几个对你了解USCIS这个黑箱子很有帮助。变态一点,
-直接:
+你也能找到大量公开的cases，多看几个对你了解USCIS这个黑箱子很有帮助。不要让
+前人白死了，变态一点，直接:
 site:uscis.gov filetype:pdf
 
-把USCIS上所有pdf都拖回来.
+把USCIS上所有pdf都拖回来。
 
 
 ---------------------------------------------------------------------------
 Q: 经常看到有人说Adv和Non-Adv, 这两个是什么意思?
 A: Advanced: Master 及以上学历
    Non-Advanced : 本科学历
+
+
+Q: 去哪里能看到自己的CASE状态信息?
+A: myaccount.uscis.gov
+很多同学会跑去egov.uscis.gov，傻傻刷好几周发现一直都提示CASE号有误。
+egov.uscis.gov更新没有规则可循，有些CASE在myaccount.uscis.gov已经更新很多个
+月了，在egov.uscis.gov上还是号码错误。
 
 
 Q: 2018年9月11日, USCIS发布了一个备忘录，主要意思说审查官可以以不发RFE和
@@ -59,12 +67,13 @@ https://www.murthy.com/2018/07/27/uscis-memo-on-denying-cases-without-rfe-noid/
 总结下来，只要每一步别出大漏子，都不太可能会被直接干掉。毕竟USCIS也是要讲基
 本法的。
 
+
 Q: worktheme.com 的信息到底准不准确?
 A: 不准确
 
-第一是其数据源是egov.uscis.com, 而根据实际经验能看到
-egov.uscis.com的更新非常不及时, 只有myaccount.uscis.gov上的数据是准确的,但
-是爬虫无法解决二次验证的问题。
+第一是其数据源是egov.uscis.com, 而根据实际经验能看到 egov.uscis.com的更新非
+常不及时, 只有myaccount.uscis.gov上的数据是准确的,但是爬虫无法解决二次验证
+的问题。
 
 第二是其数据混合了Transfer的cases。
 
@@ -177,7 +186,7 @@ Expert opinion letter可以找商业机构写，这里附上一个列表供参�
 letter的, 同时这家能提供Invoice.
 
 2. https://www.usces.org
-基本上是7*24小时在线服务, 随时都能右下解找客服并得到合适的回应, 但是这家提
+基本上是7*24小时在线服务, 随时都能右下角找客服并得到合适的回应, 但是这家提
 供不了Invoice。
 
 而在https://www.trustpilot.com/review/usces.org上, 对这个家的评价也是两极分
@@ -263,7 +272,35 @@ https://www.visalawyerblog.com/this_informative_article_is_pr/
 
 Q: How to write a verification letter?
 A:
-这个google能搜到一些样例，但要注意，那些样例大多是不符合RFE要求的。
+这个google能搜到一些样例，但要注意，那些样例大多是不符合RFE要求的。回看
+USCIS对经验的要求:
+----------------+----------------------------------------------------------
+Criteria for    |A professional evaluation of education arid experience must meet certain
+Professional    |criteria to be useful to USCIS. An evaluation should consider that:
+Evaluation of   |1. The beneficiary's training and/or work experience included the
+Education and   |   theoretical and practical application of specialized knowledge required
+Experience      |   by the specialty.
+                |2. The claimed experience was gained while working with peers,
+                |   supervisors, and/or subordinates who have a degree or equivalent in
+                |   the specialty.
+                |3. The beneficiary has recognition of expertise in the specialty evidenced
+                |   by at least one type of documentation such as: ·
+                |   * Recognition of expertise in the specialty occupation by at least two
+                |   recognized authorities in the same specialty occupation,
+                |   * Membership in a recognized foreign or United States association or··
+                |   society in the specialty occupation,
+                |   * Published material by or about the alien in .professional publications,
+                |   trade journals, or major newspapers,
+                |   * Licensure or registration to practice the specialty occupation in a foreign
+                |   country, or
+                |   * Achievements which a recognized authority has determined to be
+                |   significant contributions to the field of the specialty occupation.
+                |   [8 CFR 214.2(h)(4)(iii)(D)(5)]
+----------------+----------------------------------------------------------
+所以信要体现渐进性(progressivity)，就是得说明你一直在进步，第二要体现你的经
+验was gained while peers, supervisors, and/or suboridnates who have a
+degree or equivalent in the speciality.
+
 
 Brown Immigration Law写了个blog教了一下:
 https://www.brownimmigrationlaw.com/h-1b-experience-verification-letters-to-show-progressive-experience-in-specialty/
@@ -274,10 +311,22 @@ https://www.brownimmigrationlaw.com/h-1b-experience-verification-letters-to-show
 他们的模板非常专业且详细:
 http://trustfortecorp.com/preUpload.php
 
+
+https://www.visalawyerblog.com/this_informative_article_is_pr/
+中提到这些前雇主的信还能当作opinions by the recognized authorities in the
+specialty:
+"Recognized authority" is defined as "a person or an organization with
+expertise in a particular field, special skills or knowledge in that field,
+and the expertise to render the type of opinion requested."
+See 8 CFR 214.2(h)(4)(ii).
+Thus, given the definition, those letters from former employers can serve
+as opinions by the recognized authorities in the specialty.
+
 你也可以参考一下以下这篇
 [1] How to improve the impact of reference letters establishing extraordinary
 ability:
 https://www.klaskolaw.com/article/how-to-improve-the-impact-of-reference-letters-establishing-extraordinary-ability-2/
+
 
 
 ---------------------------------------------------------------------------
